@@ -10,6 +10,7 @@ namespace Lonline02
     {
         static void Main(string[] args)
         {
+            //this my first program
             Console.WriteLine("Hellow World");
             Console.ReadKey();
         }
