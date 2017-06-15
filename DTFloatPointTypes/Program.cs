@@ -13,7 +13,7 @@ namespace DTFloatPointTypes
             float flMin = float.MinValue;
             float flMax = float.MaxValue;
             Console.WriteLine("min value = {0} Max val = {1}", flMin, flMax);
-
+             // all variables
             float flVar = 1F / 3;
             double dlVar = 1D / 3;
             decimal dcVar = 1M / 3;
